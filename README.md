@@ -10,7 +10,7 @@
 - [x] validations for input
 - [x] interactive
 - [x] built using OOP
-- [x] project is organised in modules 
+- [x] project is organized in modules 
 
 
 ## How to run it <img height="52" width="52" src = "https://user-images.githubusercontent.com/92999481/166147080-e3baac9b-3d24-439d-aa7b-4eec7a59edc2.png">
